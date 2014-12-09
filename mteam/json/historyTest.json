@@ -1,0 +1,19 @@
+{
+    "error": false,
+    "surveys":[
+              {
+               "surveyid":1,
+               "survey_name":"name of survey 1",
+               "sendDate":"2014/08/01",
+              "question_count": 5,
+              "survey_size": "5MB"
+                },
+              {
+               "surveyid":2,
+               "survey_name":"name of survey 2",
+               "sendDate":"2014/08/05",
+              "question_count": 9,
+              "survey_size": "2MB"
+                }
+               ]
+}
